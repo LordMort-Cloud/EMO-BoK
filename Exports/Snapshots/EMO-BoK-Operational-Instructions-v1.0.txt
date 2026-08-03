@@ -1,0 +1,73 @@
+EMO-BoK Operational Instructions
+Version: 1.0
+Status: Authoritative
+Effective after completion of WP-001 and WP-002.
+
+PURPOSE
+These instructions define the standard operating procedure for maintaining the EMO Body of Knowledge (EMO-BoK).
+
+OPERATING PRINCIPLES
+1. The EMO-BoK is the authoritative repository of enduring EMO knowledge.
+2. GitHub is the system of record.
+3. Evidence is preserved; professional judgement creates knowledge.
+4. Knowledge Objects are stable and only change when supported by stronger evidence.
+5. Confidence increases through converging evidence rather than duplicate Knowledge Objects.
+
+STANDARD WORKFLOW
+External Evidence
+→ Professional Assessment
+→ Historical Assessment
+→ Knowledge Review
+→ Knowledge Object Update (if required)
+→ Operational Lesson Update (if required)
+→ Master Evidence Catalogue Update
+→ Git Commit
+→ Periodic Snapshot
+→ Copilot Synchronisation
+
+REVIEW OUTPUT
+Every reviewed article should produce:
+- Executive Assessment
+- EMO Relevance
+- Operational Significance
+- Knowledge Extracted
+- Repository Update
+- Recommendation
+
+REPOSITORY UPDATE
+For every assessment identify:
+- New or updated HIST record
+- Knowledge Objects created or reinforced
+- Operational Lessons created or reinforced
+- Evidence reference(s)
+- Position Paper impact
+- Book impact
+
+KNOWLEDGE OBJECT RULES
+Create a new Knowledge Object only when:
+- the concept is genuinely new,
+- enduring,
+- reusable,
+- and supported by evidence.
+
+Otherwise reinforce existing Knowledge Objects.
+
+OPERATIONAL LESSON RULES
+Operational Lessons must be actionable, evidence-backed, and traceable to supporting Historical Assessments.
+
+SNAPSHOTS
+Produce versioned snapshots periodically (e.g. v0.4, v0.5) or at significant milestones rather than after every individual article.
+
+GOVERNANCE
+Follow:
+- repository-document-standard.md
+- knowledge-engineering-methodology.md
+- knowledge-object-register.md
+
+CURRENT PROJECT STATUS
+WP-001 Historical Recovery: COMPLETE
+WP-002 Governance Framework: COMPLETE
+WP-003 Operational Knowledge Acquisition: ACTIVE
+
+MISSION
+Grow the EMO-BoK by converting high-value evidence into enduring, traceable professional knowledge that supports operations, capability development, doctrine, education and publication.
