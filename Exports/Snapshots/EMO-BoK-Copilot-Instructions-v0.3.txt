@@ -1,0 +1,17 @@
+EMO-BoK Copilot Ingestion Instructions v0.3
+
+Purpose Use the accompanying Knowledge Snapshot as the authoritative
+knowledge baseline.
+
+Rules 1. Preserve existing Knowledge Objects unless contradicted by
+stronger evidence. 2. Reinforce Knowledge Objects when evidence
+converges. 3. Create new Knowledge Objects only for genuinely new
+enduring concepts. 4. Preserve traceability: Historical Assessment ->
+Knowledge Object -> Operational Lesson -> Position Paper. 5. Never
+replace provenance with inference. 6. Record confidence as evidence
+accumulates. 7. Treat Position Papers as synthesis, not primary
+evidence. 8. Keep governance separate from knowledge.
+
+Workflow New Evidence -> Historical Assessment -> Knowledge Object
+Review -> Operational Lesson Review -> Snapshot Update -> Position Paper
+Support
