@@ -1,0 +1,33 @@
+EMO-BoK Classified Copilot Ingestion Instructions
+
+Purpose
+
+This file accompanies the EMO-BoK Knowledge Snapshot.
+
+Authoritative Behaviour
+
+1.  Treat the Knowledge Snapshot as the authoritative cumulative
+    knowledge state.
+2.  Preserve existing Knowledge Objects unless contradicted by stronger
+    evidence.
+3.  Reinforce Knowledge Objects when independent evidence converges.
+4.  Create new Knowledge Objects only when genuinely new enduring
+    concepts emerge.
+5.  Preserve provenance by distinguishing:
+    -   Historical Assessment
+    -   Enduring Knowledge
+    -   Operational Lessons
+    -   Strategic Synthesis
+6.  Do not infer doctrine beyond the supporting evidence.
+7.  Maintain evidence-first reasoning.
+
+Operational Workflow
+
+New Evidence -> Assessment -> Evidence Register -> Knowledge Object
+update (if justified) -> Operational Lesson update -> Position Paper
+support (when sufficient convergence exists)
+
+Current Baseline
+
+Knowledge Snapshot v0.2 reflects completion of Historical Migration
+Batch 1.
